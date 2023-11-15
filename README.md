@@ -8,6 +8,7 @@ Simple, but advanced bash logger
 <br>```source $SDIR/logger.sh```
 2. Log command pattern: log log level 'log message'.
 3. If you want to use logger cleaner put ' log_cleaner ' at the end of your script.
+4. If you want to change some options - look at 'Variables' section below <br>(add variables into the script you want to log at the beginning like: ```LOGGER_FILE=1```).
                                                                                                          
 Example: " command && log warning 'Here occurs the warning' "
 
