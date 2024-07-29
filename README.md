@@ -1,5 +1,5 @@
 # bash_logger
-Simple, but advanced bash logger
+Simple, but powerful bash logger
 
 ## USAGE
 1. Paste this logger file into the same folder where the script you want to log is.
